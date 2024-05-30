@@ -27,7 +27,7 @@ An expert within the field of modern slavery identified and associated key terms
 ## Analysis and Discussion
 
 ## Repository contents
-withing the **statements** exists all the modern slavery statements as .txt files, in total there is 159 text files. 
+Within the **statements** folder exists all the modern slavery statements as .txt files, in total there is 158 text files. 
 
 ## References
 
