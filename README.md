@@ -9,7 +9,7 @@ The agri-food sector has historically been more at risk of labour exploitation, 
 ## Study objectives 
 1) Development of a coding scheme via the identification of key terms used within modern slavery statements within the agri-food supply chain and associate them with the topics 
 2) Identify the presence and proportion of topics within each document to understand the main themes
-3) Identify groups of similar documents via based on their topic proportions to identify groups of similar documents (via k-means clustering)
+3) Identify groups of similar documents via their topic proportions (via k-means clustering)
 4) Analyse the correlations between different topics across documents and calculate a similarity score between documents based on their topic distributions.
 5) Compare topic distributions between different groups of documents (e.g., based on turnover).
 
